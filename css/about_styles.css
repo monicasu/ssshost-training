@@ -30,6 +30,13 @@
   text-align: center;
 }
 
+.body_b h2{
+  font size: 20px;
+  padding-top:10px;
+  clear: both;
+  text-align: center;
+}
+
 .body p {
   color:#737373;
   text-align:center;
