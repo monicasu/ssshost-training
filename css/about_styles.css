@@ -29,20 +29,20 @@
 }
 
 .body_h1 p{
-  font size: 20px;
+  font size: 18px;
   clear: both;
   text-align: center;
 }
 
 .body_h21 p{
-  font size: 18px;
+  font size: 16px;
   clear: both;
   text-align: center;
   text-decoration: line-through;
 }
 
 .body_h22 p{
-  font size: 18px;
+  font size: 16px;
   clear: both;
   text-align: center;
 }
