@@ -36,6 +36,12 @@
   font-size: 13px;
 }
 
+.body_p p {
+  color:#737373;
+  text-align:center;
+  font-size: 19px;
+}
+
 .image_b img {
   margin-right: 0px;
   margin-left: 0px;
