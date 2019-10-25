@@ -15,26 +15,6 @@
   clear: both;
   text-align:left;
 }
-.header_b h2{
-  font size: 10px;
-  clear: both;
-  text-align: center;
-  text-decoration: line-through;
-}
-
-.header_b h1{
-  font size: 10px;
-  padding-top:10px;
-  clear: both;
-  text-align: center;
-}
-
-.body_b h2{
-  font size: 10px;
-  padding-top:10px;
-  clear: both;
-  text-align: center;
-}
 
 .body p {
   color:#737373;
@@ -48,6 +28,25 @@
   font-size: 19px;
 }
 
+.header_h1 p{
+  font size: 30px;
+  padding-top:10px;
+  clear: both;
+  text-align: center;
+}
+
+.header_h21 p{
+  font size: 24px;
+  clear: both;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+.body_h22 p{
+  font size: 24px;
+  clear: both;
+  text-align: center;
+}
 .image_b img {
   margin-right: 0px;
   margin-left: 0px;
