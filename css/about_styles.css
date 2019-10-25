@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 .container{
   margin: auto;
-  width: 100%;
+  width: 80%;
 }
 .header h1{
   text-align:center;
@@ -14,6 +14,13 @@
   clear: both;
   text-align:left;
   font-size: 20px;
+}
+.header h3{
+  text-decoration: overline;
+  font size: 20px;
+  padding-top:1opx
+  clear: both;
+  text-align: center;
 }
 .body p {
   color:#737373;
