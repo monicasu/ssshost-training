@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 .container{
-  margin:0 auto;
-  width: 90%;
+  margin: auto;
+  width: 100%;
 }
 .header h1{
   text-align:center;
