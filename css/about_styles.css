@@ -25,25 +25,24 @@
 .body_p p {
   color:#737373;
   text-align:center;
-  font-size: 19px;
+  font-size: 15px;
 }
 
 .body_h1 p{
-  font size: 30px;
-  padding-top:10px;
+  font size: 20px;
   clear: both;
   text-align: center;
 }
 
 .body_h21 p{
-  font size: 24px;
+  font size: 18px;
   clear: both;
   text-align: center;
   text-decoration: line-through;
 }
 
 .body_h22 p{
-  font size: 24px;
+  font size: 18px;
   clear: both;
   text-align: center;
 }
