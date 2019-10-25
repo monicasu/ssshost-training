@@ -4,29 +4,38 @@
   width: 80%;
 }
 .header h1{
-  text-align:center;
-  clear: both;
-  padding-top: 15px;
   font-size: 30px;
+  padding-top: 15px;
+  clear: both;
+  text-align:center;
 }
 .header h2 {
+  font-size: 20px;
   padding-top: 10px;
   clear: both;
   text-align:left;
-  font-size: 20px;
 }
-.header h3{
-  text-decoration: overline;
+.header_b h2{
   font size: 20px;
-  padding-top:1opx
+  padding-top:10px;
+  clear: both;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+.header_b h1{
+  font size: 20px;
+  padding-top:10px;
   clear: both;
   text-align: center;
 }
+
 .body p {
   color:#737373;
   text-align:center;
   font-size: 13px;
 }
+
 .image_b img {
   margin-right: 0px;
   margin-left: 0px;
