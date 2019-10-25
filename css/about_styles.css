@@ -46,6 +46,11 @@
   clear: both;
   text-align: center;
 }
+
+div.a {
+  font-size: 20px;
+}
+
 .image_b img {
   margin-right: 0px;
   margin-left: 0px;
