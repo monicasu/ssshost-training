@@ -3,6 +3,11 @@
   margin: auto;
   width: 80%;
 }
+.header_block h1{
+  background-color: #d9cab0;
+  padding: 10px;
+  text-align: center;
+}
 .header h1{
   font-size: 30px;
   padding-top: 15px;
@@ -64,5 +69,6 @@
 }
 
 .footer {
+  font size: 10px
   text-align: center;
 }
