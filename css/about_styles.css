@@ -1,11 +1,20 @@
 * { box-sizing: border-box; }
-.container{
+.container_h{
+  margin: auto;
+  width: 100%;
+}
+.container_f{
+  margin: auto;
+  width: 100%;
+}
+.container_b{
   margin: auto;
   width: 80%;
 }
 .header_block h1{
   background-color: #d9cab0;
-  padding: 10px;
+  padding: 20px;
+  font size: 25px;
   text-align: center;
 }
 .header h1{
@@ -69,6 +78,6 @@
 }
 
 .footer {
-  font size: 10px
+  font size: 10px;
   text-align: center;
 }
