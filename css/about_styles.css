@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 
 .container_h{
-  margin: auto;
+  margin: 0;
   width: 100%;
 }
 .container_f{
