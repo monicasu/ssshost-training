@@ -7,6 +7,7 @@
 .container_f{
   margin: auto;
   width: 100%;
+  background-color: #d9cab0;
 }
 .container_b{
   margin: auto;
@@ -14,7 +15,7 @@
 }
 .header_block h1{
   background-color: #d9cab0;
-  padding: 20px;
+  padding: 30px;
   font size: 25px;
   text-align: center;
   margin-top:0;
