@@ -48,6 +48,7 @@
 .body_h1 p{
   font size: 24px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .body_h21 p{
