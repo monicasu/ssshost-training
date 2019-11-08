@@ -3,16 +3,20 @@
 .container_h{
   margin: 0;
   width: 100%;
+  font-family:sans-serif;
 }
 .container_f{
   margin: 0;
   width: 100%;
   background-color: #d9cab0;
+  font-family:sans-serif;
 }
 .container_b{
   margin: auto;
   width: 80%;
+  font-family:sans-serif;
 }
+
 .header_block h1{
   background-color: #d9cab0;
   padding: 30px;
