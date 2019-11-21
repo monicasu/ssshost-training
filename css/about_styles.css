@@ -84,11 +84,11 @@
 .stretch_b img {
   min-width:100%; min-height:100%; width:auto; height:auto;
 }
-.mark_title {
+mark_title {
   color: #F6E0DC;
 }
 
-.mark_body {
+mark_body {
   color: #9D7F7A;
 }
 
