@@ -26,13 +26,13 @@
 }
 .header h1{
   font-size: 16px;
-  padding-top: 15px;
+  padding-top: 16px;
   clear: both;
   text-align:center;
 }
 .header h2 {
   font-size: 14px;
-  padding-top: 10px;
+  padding-top: 14px;
   clear: both;
   text-align:left;
 }
@@ -83,6 +83,13 @@
 
 .stretch_b img {
   min-width:100%; min-height:100%; width:auto; height:auto;
+}
+.mark_title {
+  color: #F6E0DC;
+}
+
+.mark_body {
+  color: #9D7F7A;
 }
 
 .Table {
