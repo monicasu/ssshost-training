@@ -25,13 +25,13 @@
   margin-top:0;
 }
 .header h1{
-  font-size: 25px;
+  font-size: 16 px;
   padding-top: 15px;
   clear: both;
   text-align:center;
 }
 .header h2 {
-  font-size: 18px;
+  font-size: 14px;
   padding-top: 10px;
   clear: both;
   text-align:left;
@@ -40,13 +40,13 @@
 .body p {
   color:#737373;
   text-align:center;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .body_p p {
   color:#737373;
   text-align:center;
-  font-size: 18px;
+  font-size: 12 px;
 }
 
 .body_h1 p{
