@@ -85,6 +85,15 @@
   min-width:100%; min-height:100%; width:auto; height:auto;
 }
 
+.Table {
+  border: 1px solid #F6E0DC;
+  text-align: left;
+  border-collapse: collapse;
+}
+.Table td, .Table th {
+  border: 1px solid #F6E0DC;
+}
+
 .footer {
   font size: 10px;
   text-align: center;
