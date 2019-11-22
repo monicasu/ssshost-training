@@ -115,3 +115,11 @@ li::before {
   padding-right: 8px;
   color:#bd9aa6; /* Or a color you prefer */
 }
+
+.striped-border {
+        border: 1px dashed #bd9aa6;
+        width: 50%;
+        margin: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
