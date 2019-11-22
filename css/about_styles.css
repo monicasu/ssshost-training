@@ -88,7 +88,7 @@
 }
 
 mark_title {
-  color: #bd9aa6;
+  color: #F6E0DC;
 }
 
 .Table {
@@ -126,11 +126,11 @@ hr {
   margin-right: auto;
   border-style: solid;
   border-color:#F6E0DC;
-  border-width: 1px;
+  border-width: 0.7px;
 }
 
 striped_border {
-  border-bottom: 2px solid #bd9aa6;
+  border-bottom: 2px solid #F6E0DC;
   text-align: center;
   font-size: 16px;
   padding-top: 16px;
