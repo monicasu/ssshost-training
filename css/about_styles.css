@@ -121,8 +121,4 @@ li::before {
 
 .striped-border {
         border: 1px dashed #bd9aa6;
-        width: 50%;
-        margin: auto;
-        margin-top: 5%;
-        margin-bottom: 5%;
     }
