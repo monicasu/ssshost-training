@@ -86,7 +86,7 @@
 }
 
 mark_title {
-  color: #9D7F7A;
+  color: #bd9aa6;
 }
 
 .Table {
@@ -101,4 +101,16 @@ mark_title {
 .footer {
   font size: 10px;
   text-align: center;
+}
+
+ul {
+  list-style: none; /* Remove HTML bullets */
+  padding: 0;
+  margin: 0;
+}
+
+li::before {
+  content: "*"; /* Insert content that looks like bullets */
+  padding-right: 8px;
+  color:#bd9aa6; /* Or a color you prefer */
 }
