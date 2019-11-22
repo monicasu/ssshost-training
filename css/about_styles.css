@@ -8,7 +8,7 @@
 .container_f{
   margin: 0;
   width: 100%;
-  background-color: #bd9aa6;
+  background-color: #F6E0DC;
   font-family:sans-serif;
 }
 .container_b{
@@ -18,7 +18,7 @@
 }
 
 .header_block h1{
-  background-color: #bd9aa6;
+  background-color: #F6E0DC;
   padding: 30px;
   font size: 25px;
   text-align: center;
