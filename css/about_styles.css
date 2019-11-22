@@ -101,7 +101,7 @@ mark_title {
 }
 
 .footer {
-  font size: 10px;
+  font-size: 10px;
   text-align: center;
 }
 
@@ -127,5 +127,5 @@ striped_border {
   padding-top: 16px;
   clear: both;
   text-align: center;
-  color: #666666
+  color: #666666;
     }
