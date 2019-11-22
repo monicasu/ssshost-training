@@ -116,7 +116,7 @@ ul {
 li::before {
   content: "◦"; /* Insert content that looks like bullets */
   padding-right: 8px;
-  color:#bd9aa6; /* Or a color you prefer */
+  color:#F6E0DC; /* Or a color you prefer */
 }
 
 hr {
@@ -125,7 +125,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   border-style: solid;
-  border-color:#bd9aa6;
+  border-color:#F6E0DC;
   border-width: 1px;
 }
 
