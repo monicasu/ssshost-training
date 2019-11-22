@@ -119,6 +119,15 @@ li::before {
   color:#bd9aa6; /* Or a color you prefer */
 }
 
+hr {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color:#bd9aa6;
+  border-width: 1px;
+}
 
 striped_border {
   border-bottom: 2px solid #bd9aa6;
