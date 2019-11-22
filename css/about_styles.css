@@ -121,11 +121,10 @@ li::before {
 
 
 striped_border {
-  border-bottom: 2px dashed #bd9aa6;
+  border-bottom: 2px #bd9aa6;
   text-align: center;
   font-size: 16px;
   padding-top: 16px;
   clear: both;
   text-align: center;
-  color: #666666;
     }
